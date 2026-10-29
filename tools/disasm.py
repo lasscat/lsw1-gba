@@ -734,7 +734,15 @@ class Emitter:
                 if any(self.file_of.get(r) != f['name'] for r in self.refs.get(a, ())):
                     lines.append(f'\t.global {lab}')
                 lines.append(f'{lab}:')
-            if it.kind == 'word':
+            if a + it.size == f['end'] and it.mode == 'thumb' and it.size == 2 and self.rom.u16(a) == 0:
+                # A trailing zero halfword is agbcc's END_PAD, which sits after the compiler's .size: keep it out
+                # of the symbol too, so objdiff sizes the asm and C functions alike. Bytes are unchanged.
+                lines.append(f'\tfunc_end {name}')
+                name = None
+            nxt = an.at.get(a + it.size)
+            if it.mode == 'thumb' and it.size == 2 and self.rom.u16(a) == 0 and nxt is not None and nxt.kind == 'word':
+                lines.append('\t.2byte 0x0000')  # agbcc's `.align 2, 0` before a literal pool: data, as in its objects
+            elif it.kind == 'word':
                 lines.append(f'\t.4byte {self.word_text[a]}')
             elif it.kind == 'half':
                 lines.append(f'\t.2byte 0x{self.rom.u16(a):04X}')
@@ -743,7 +751,8 @@ class Emitter:
             a += it.size
         if a != f['end']:
             raise SystemExit(f'{f["name"]}: last item overruns {f["end"]:#x}')
-        lines.append(f'\tfunc_end {name}')
+        if name:
+            lines.append(f'\tfunc_end {name}')
         return '\n'.join(lines) + '\n'
 
     # -- data

@@ -1,5 +1,7 @@
 # LEGO Star Wars: The Video Game (GBA) decompilation
 
+[![Progress](https://bytematch.dev/lasscat/lsw1-gba.svg)](https://bytematch.dev/lasscat/lsw1-gba)
+
 Work in progress: a matching decompilation (the rebuilt ROM must be byte-identical to the original).
 
 The asm build rebuilds the ROM byte for byte; matched functions are C built with a patched agbcc
