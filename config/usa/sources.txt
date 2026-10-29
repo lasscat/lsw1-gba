@@ -5,3 +5,4 @@
 src/auto/sub_08000494.c sub_08000494
 src/auto/sub_08009F40.c sub_08009F40
 src/auto/sub_0802E610.c sub_0802E610
+src/auto/sub_08035D88.c sub_08035D88
