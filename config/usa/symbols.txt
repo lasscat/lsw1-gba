@@ -52,6 +52,7 @@
 0x0300205C arm   sub_0300205C
 0x03003190 data  gUnknown_03003190
 0x03003764 data  gUnknown_03003764
+0x03006B1C data  gUnknown_03006B1C
 0x080000C0 arm   _start
 0x08000180 thumb sub_08000180
 0x080001F8 thumb sub_080001F8
