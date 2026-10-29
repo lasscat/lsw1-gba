@@ -1,0 +1,24 @@
+build/
+venv/
+__pycache__/
+*.d
+
+# ROM dumps: never commit
+*.gba
+*.nds
+*.sav
+extract/*
+!extract/README.md
+
+# local toolchains
+/tools/agbcc/
+/tools/compiler/
+objdiff.json
+/objdiff-cli
+
+# ROM-derived disassembly (tools/disasm.py emit) and build output
+/asm/
+/build/
+/build.ninja
+/.ninja_*
+.DS_Store

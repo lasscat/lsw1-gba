@@ -1,0 +1,36 @@
+# ROM layout for tools/disasm.py (phase 3). Addresses and region kinds only; no ROM bytes.
+# Evidence for each boundary: docs/rom-survey.md.
+#
+#   seg <name> <vma> <lma> <size>    a load segment: linked at <vma>, stored in the ROM at <lma>
+#   <kind> <start> <end> [cont]       a region by run address (VMA), kinds: header, arm, thumb, data
+#                                     cont = continues the function before it (no function starts here)
+# Regions must be sorted and cover every segment exactly.
+
+seg rom   0x08000000 0x08000000 0x00EBF030
+seg iwram 0x03000000 0x08EBF030 0x000024D8
+seg ewram 0x02000000 0x08EC1508 0x000027F8
+
+header 0x08000000 0x080000C0
+arm    0x080000C0 0x08000180          # crt0 + its literal pool
+thumb  0x08000180 0x08043C3C          # game code (GCC Thumb, tpcs-frame)
+arm    0x08043C3C 0x08044114          # signed div/divmod helpers; 0x08044110 is a b over the next region
+data   0x08044114 0x080441D0          # 0xBC-byte blob ending "LEGOSTARWARSBLWE4F" (jumped over, not code)
+arm    0x080441D0 0x08044278          # APCS-frame ARM routines
+thumb  0x08044278 0x08044770          # libraries (Krawall Thumb and others)
+arm    0x08044770 0x08044928          # Krawall ARM routine (APCS frame) + pool word
+thumb  0x08044928 0x08047D20          # libraries, BIOS wrappers, C library, libgcc; glue starts 0x08047D1C
+arm    0x08047D20 0x08047D24 cont     # ld glue: Thumb "bx pc; nop" then an ARM b
+thumb  0x08047D24 0x08047D48          # long-call stubs, then glue
+arm    0x08047D48 0x08047D4C cont
+thumb  0x08047D4C 0x08047D50
+arm    0x08047D50 0x08047D54 cont
+thumb  0x08047D54 0x08047D58
+arm    0x08047D58 0x08047D5C cont
+thumb  0x08047D5C 0x08047D9C          # long-call stubs to IWRAM
+data   0x08047D9C 0x08EBF030          # ROM data
+
+data   0x03000000 0x030001D0          # IWRAM: zeros, then a ROM pointer table
+arm    0x030001D0 0x03002084          # IWRAM code: IRQ helpers, intr_main, Krawall mixer
+data   0x03002084 0x030024D8
+
+data   0x02000000 0x020027F8          # EWRAM initialized data
