@@ -2,8 +2,21 @@
 
 Work in progress: a matching decompilation (the rebuilt ROM must be byte-identical to the original).
 
-Status: the asm build rebuilds the ROM byte for byte; 2 of 1965 game functions are in C, built with a patched
-agbcc (`docs/compiler.md`). You need your own legally obtained ROM (see `extract/README.md`).
+The asm build rebuilds the ROM byte for byte; matched functions are C built with a patched agbcc
+(`docs/compiler.md`). You need your own legally obtained ROM (see `extract/README.md`).
+
+## Progress
+
+<!-- progress:start -->
+`░░░░░░░░░░░░░░░░░░░░` **0.14%** of the game code matched in C · 9/1965 game functions
+
+| Part of the code | Functions in C | Bytes in C | Share |
+|---|---|---|---|
+| Game code | 9/1965 | 0x180/0x43abc | 0.14% |
+| Libraries (SDK, libgcc, Krawall) | 0/226 | 0x0/0x6018 | 0.00% |
+
+*Updated 2026-10-29 by `python tools/match.py progress`. A function counts only when it compiles to the exact same bytes and the ROM still rebuilds byte for byte.*
+<!-- progress:end -->
 
 ```sh
 tools/setup_agbcc.sh                 # build the compiler (open source, pinned)

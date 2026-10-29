@@ -3,6 +3,7 @@
 
     python tools/match.py status              # functions in C vs asm (game code and libraries)
     python tools/match.py worklist [-n 20]    # smallest game functions still in asm
+    python tools/match.py progress            # rewrite the progress section of README.md (no build needed)
     python tools/match.py check FUNCTION      # rebuild, compare the function's bytes in the built ROM (--diff)
     python tools/match.py verify              # strict gate: ROM SHA1 (tools/verify.py), source policy, ASCII,
                                               #   sources.txt consistency
@@ -50,6 +51,48 @@ def cmd_status(args):
         size, done_size = sum(f[3] for f in fs), sum(f[3] for f in done)
         print(f'{label:16} {len(done):5}/{len(fs):<5} functions in C  '
               f'{done_size:#9x}/{size:#x} bytes ({100.0 * done_size / max(size, 1):.2f}%)')
+
+
+def bar(percent: float, width: int = 20) -> str:
+    full = round(percent / 100 * width)
+    return '`' + '\u2588' * full + '\u2591' * (width - full) + '`'
+
+
+def cmd_progress(args):
+    """Writes the README.md block between the progress markers (created before the first code block or second-level
+    title when missing). Counts come from sources.txt and symbols.txt, so no build is needed."""
+    import datetime
+    import re
+    in_c = c_functions()
+    rows = []
+    for label, pick in (('Game code', is_game), ('Libraries (SDK, libgcc, Krawall)', lambda a: not is_game(a))):
+        fs = [f for f in functions() if pick(f[0])]
+        done = [f for f in fs if f[2] in in_c]
+        rows.append((label, len(done), len(fs), sum(f[3] for f in done), sum(f[3] for f in fs)))
+    _, game_done, game_total, game_bytes, game_size = rows[0]
+    game = 100.0 * game_bytes / max(game_size, 1)
+    lines = ['<!-- progress:start -->',
+             f'{bar(game)} **{game:.2f}%** of the game code matched in C \u00b7 {game_done}/{game_total} game functions',
+             '',
+             '| Part of the code | Functions in C | Bytes in C | Share |',
+             '|---|---|---|---|']
+    for label, done, total, done_bytes, size in rows:
+        lines.append(f'| {label} | {done}/{total} | {done_bytes:#x}/{size:#x} | {100.0 * done_bytes / max(size, 1):.2f}% |')
+    lines += ['',
+              f'*Updated {datetime.date.today().isoformat()} by `python tools/match.py progress`. A function counts only '
+              f'when it compiles to the exact same bytes and the ROM still rebuilds byte for byte.*',
+              '<!-- progress:end -->']
+    block = '\n'.join(lines)
+    readme = ROOT / 'README.md'
+    text = readme.read_text(encoding='utf-8')
+    if '<!-- progress:start -->' in text:
+        new = re.sub(r'<!-- progress:start -->.*?<!-- progress:end -->', lambda _m: block, text, flags=re.S)
+    else:
+        m = re.search(r'^(```|## )', text, re.M)
+        at = m.start() if m else len(text)
+        new = text[:at].rstrip('\n') + '\n\n## Progress\n\n' + block + '\n\n' + text[at:]
+    readme.write_text(new, encoding='utf-8', newline='\n')
+    print(f'README.md progress updated: {game:.2f}% of game code, {game_done}/{game_total} game functions')
 
 
 def cmd_worklist(args):
@@ -155,12 +198,13 @@ def main():
     sub = ap.add_subparsers(dest='cmd', required=True)
     sub.add_parser('status')
     sub.add_parser('worklist').add_argument('-n', type=int, default=20)
+    sub.add_parser('progress')
     p = sub.add_parser('check')
     p.add_argument('function', help='name or address')
     p.add_argument('--diff', action='store_true', help='Show target/built disassembly when not matching')
     sub.add_parser('verify')
     args = ap.parse_args()
-    {'status': cmd_status, 'worklist': cmd_worklist, 'check': cmd_check, 'verify': cmd_verify}[args.cmd](args)
+    {'status': cmd_status, 'worklist': cmd_worklist, 'progress': cmd_progress, 'check': cmd_check, 'verify': cmd_verify}[args.cmd](args)
 
 
 if __name__ == '__main__':
