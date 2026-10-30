@@ -9,6 +9,7 @@ src/auto/sub_0800A160.c sub_0800A160
 src/auto/sub_0800C364.c sub_0800C364
 src/auto/sub_0800C9AC.c sub_0800C9AC
 src/auto/sub_0800C9CC.c sub_0800C9CC
+src/auto/sub_0800C9EC.c sub_0800C9EC
 src/auto/sub_0800CC64.c sub_0800CC64
 src/auto/sub_0800DAE8.c sub_0800DAE8
 src/auto/sub_080133A0.c sub_080133A0
