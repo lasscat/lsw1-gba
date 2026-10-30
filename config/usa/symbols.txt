@@ -1,5 +1,6 @@
 # Function starts for tools/disasm.py: <address> <thumb|arm|data> <name>. Hand edits welcome
 # (rename, add, remove). Written by `disasm.py discover`, which overwrites this file.
+0x00000465 data  gUnknown_00000465
 0x02002800 data  gUnknown_02002800
 0x02040000 data  gUnknown_02040000
 0x030001D0 arm   sub_030001D0
@@ -99,6 +100,7 @@
 0x03006740 data  gUnknown_03006740
 0x03006820 data  gUnknown_03006820
 0x030069D8 data  gUnknown_030069D8
+0x03006A2C data  gUnknown_03006A2C
 0x03006B1C data  gUnknown_03006B1C
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
