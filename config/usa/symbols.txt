@@ -84,6 +84,7 @@
 0x03006B1C data  gUnknown_03006B1C
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
+0x03006FD4 data  gUnknown_03006FD4
 0x03007460 data  gUnknown_03007460
 0x080000C0 arm   _start
 0x08000180 thumb sub_08000180
