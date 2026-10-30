@@ -83,6 +83,7 @@ src/auto/sub_0800A074.c sub_0800A074
 src/auto/sub_0800A160.c sub_0800A160
 src/auto/sub_0800A550.c sub_0800A550
 src/auto/sub_0800A960.c sub_0800A960
+src/auto/sub_0800A98C.c sub_0800A98C
 src/auto/sub_0800A9D0.c sub_0800A9D0
 src/auto/sub_0800AB9C.c sub_0800AB9C
 src/auto/sub_0800B0BC.c sub_0800B0BC
