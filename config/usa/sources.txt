@@ -94,6 +94,7 @@ src/auto/sub_0800FF2C.c sub_0800FF2C
 src/auto/sub_08011C64.c sub_08011C64
 src/auto/sub_080120DC.c sub_080120DC
 src/auto/sub_08012108.c sub_08012108
+src/auto/sub_080124A0.c sub_080124A0
 src/auto/sub_080125F8.c sub_080125F8
 src/auto/sub_080126B4.c sub_080126B4
 src/auto/sub_08012A3C.c sub_08012A3C
