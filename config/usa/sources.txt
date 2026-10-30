@@ -104,6 +104,7 @@ src/auto/sub_08012B60.c sub_08012B60
 src/auto/sub_08012E18.c sub_08012E18
 src/auto/sub_08012E38.c sub_08012E38
 src/auto/sub_08012EC8.c sub_08012EC8
+src/auto/sub_0801334C.c sub_0801334C
 src/auto/sub_080133A0.c sub_080133A0
 src/auto/sub_08013BDC.c sub_08013BDC
 src/auto/sub_08013D60.c sub_08013D60
