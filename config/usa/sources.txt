@@ -151,6 +151,7 @@ src/auto/sub_0801713C.c sub_0801713C
 src/auto/sub_080171F4.c sub_080171F4
 src/auto/sub_08018428.c sub_08018428
 src/auto/sub_0801852C.c sub_0801852C
+src/auto/sub_08018560.c sub_08018560
 src/auto/sub_0801AE8C.c sub_0801AE8C
 src/auto/sub_0801AF68.c sub_0801AF68
 src/auto/sub_0801AF94.c sub_0801AF94
