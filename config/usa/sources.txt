@@ -119,6 +119,7 @@ src/auto/sub_0800DF7C.c sub_0800DF7C
 src/auto/sub_0800DF9C.c sub_0800DF9C
 src/auto/sub_0800DFC0.c sub_0800DFC0
 src/auto/sub_0800E14C.c sub_0800E14C
+src/auto/sub_0800E19C.c sub_0800E19C
 src/auto/sub_0800E508.c sub_0800E508
 src/auto/sub_0800E58C.c sub_0800E58C
 src/auto/sub_0800E974.c sub_0800E974
