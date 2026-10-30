@@ -15,6 +15,7 @@ src/auto/sub_080087DC.c sub_080087DC
 src/auto/sub_08009F40.c sub_08009F40
 src/auto/sub_0800A040.c sub_0800A040
 src/auto/sub_0800A160.c sub_0800A160
+src/auto/sub_0800A550.c sub_0800A550
 src/auto/sub_0800C364.c sub_0800C364
 src/auto/sub_0800C9AC.c sub_0800C9AC
 src/auto/sub_0800C9CC.c sub_0800C9CC
