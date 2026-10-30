@@ -30,6 +30,7 @@ src/auto/sub_08001830.c sub_08001830
 src/auto/sub_080019C8.c sub_080019C8
 src/auto/sub_08001BF0.c sub_08001BF0
 src/auto/sub_08001D14.c sub_08001D14
+src/auto/sub_08001DD4.c sub_08001DD4
 src/auto/sub_08001E24.c sub_08001E24
 src/auto/sub_08001E64.c sub_08001E64
 src/auto/sub_080020A8.c sub_080020A8
