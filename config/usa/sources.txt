@@ -25,6 +25,7 @@ src/auto/sub_08003F14.c sub_08003F14
 src/auto/sub_080040C8.c sub_080040C8
 src/auto/sub_080053D4.c sub_080053D4
 src/auto/sub_08005674.c sub_08005674
+src/auto/sub_0800569C.c sub_0800569C
 src/auto/sub_08005B3C.c sub_08005B3C
 src/auto/sub_08006CF4.c sub_08006CF4
 src/auto/sub_08007B3C.c sub_08007B3C
