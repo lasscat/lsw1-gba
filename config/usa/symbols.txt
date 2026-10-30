@@ -61,6 +61,7 @@
 0x03002BF4 data  gUnknown_03002BF4
 0x03002C40 data  gUnknown_03002C40
 0x03002C50 data  gUnknown_03002C50
+0x03002C54 data  gUnknown_03002C54
 0x03002E14 data  gUnknown_03002E14
 0x03002E74 data  gUnknown_03002E74
 0x03002EC4 data  gUnknown_03002EC4
