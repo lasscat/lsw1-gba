@@ -53,6 +53,7 @@ src/auto/sub_08035BA8.c sub_08035BA8
 src/auto/sub_08035D88.c sub_08035D88
 src/auto/sub_0803681C.c sub_0803681C
 src/auto/sub_08036FC8.c sub_08036FC8
+src/auto/sub_08037A70.c sub_08037A70
 src/auto/sub_0803AB34.c sub_0803AB34
 src/auto/sub_0803F504.c sub_0803F504
 src/auto/sub_08041E94.c sub_08041E94
