@@ -146,6 +146,7 @@ src/auto/sub_0801AF68.c sub_0801AF68
 src/auto/sub_0801AF94.c sub_0801AF94
 src/auto/sub_0801AFC0.c sub_0801AFC0
 src/auto/sub_0801AFEC.c sub_0801AFEC
+src/auto/sub_0801B018.c sub_0801B018
 src/auto/sub_0801BD08.c sub_0801BD08
 src/auto/sub_0801BD2C.c sub_0801BD2C
 src/auto/sub_0801BDA4.c sub_0801BDA4
