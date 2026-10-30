@@ -14,6 +14,7 @@ src/auto/sub_08000B34.c sub_08000B34
 src/auto/sub_08000B64.c sub_08000B64
 src/auto/sub_08000B94.c sub_08000B94
 src/auto/sub_08000BC4.c sub_08000BC4
+src/auto/sub_08000BF4.c sub_08000BF4
 src/auto/sub_08000D58.c sub_08000D58
 src/auto/sub_08000D7C.c sub_08000D7C
 src/auto/sub_08000DD0.c sub_08000DD0
