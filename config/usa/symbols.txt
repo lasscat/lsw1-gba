@@ -116,6 +116,7 @@
 0x03006960 data  gUnknown_03006960
 0x030069AC data  gUnknown_030069AC
 0x030069BC data  gUnknown_030069BC
+0x030069C0 data  gUnknown_030069C0
 0x030069D8 data  gUnknown_030069D8
 0x030069DC data  gUnknown_030069DC
 0x030069E4 data  gUnknown_030069E4
