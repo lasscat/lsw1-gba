@@ -107,6 +107,7 @@
 0x030069D8 data  gUnknown_030069D8
 0x03006A2C data  gUnknown_03006A2C
 0x03006AEC data  gUnknown_03006AEC
+0x03006AFC data  gUnknown_03006AFC
 0x03006B1C data  gUnknown_03006B1C
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
