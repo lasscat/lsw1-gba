@@ -45,6 +45,7 @@ src/auto/sub_08033354.c sub_08033354
 src/auto/sub_08033438.c sub_08033438
 src/auto/sub_08034C7C.c sub_08034C7C
 src/auto/sub_08034C9C.c sub_08034C9C
+src/auto/sub_08034E28.c sub_08034E28
 src/auto/sub_08035D88.c sub_08035D88
 src/auto/sub_08036FC8.c sub_08036FC8
 src/auto/sub_0803AB34.c sub_0803AB34
