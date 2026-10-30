@@ -67,6 +67,7 @@
 0x03003764 data  gUnknown_03003764
 0x03003770 data  gUnknown_03003770
 0x030049F0 data  gUnknown_030049F0
+0x03006690 data  gUnknown_03006690
 0x03006B1C data  gUnknown_03006B1C
 0x03006F8C data  gUnknown_03006F8C
 0x080000C0 arm   _start
