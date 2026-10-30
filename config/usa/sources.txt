@@ -50,6 +50,7 @@ src/auto/sub_0800CDAC.c sub_0800CDAC
 src/auto/sub_0800CDD4.c sub_0800CDD4
 src/auto/sub_0800CEEC.c sub_0800CEEC
 src/auto/sub_0800CF20.c sub_0800CF20
+src/auto/sub_0800D0A8.c sub_0800D0A8
 src/auto/sub_0800D140.c sub_0800D140
 src/auto/sub_0800D334.c sub_0800D334
 src/auto/sub_0800D3A8.c sub_0800D3A8
