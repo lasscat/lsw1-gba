@@ -5,6 +5,7 @@
 src/auto/sub_08000494.c sub_08000494
 src/auto/sub_080006B0.c sub_080006B0
 src/auto/sub_080006E0.c sub_080006E0
+src/auto/sub_0800070C.c sub_0800070C
 src/auto/sub_08000A74.c sub_08000A74
 src/auto/sub_08000AA4.c sub_08000AA4
 src/auto/sub_08000AD4.c sub_08000AD4
