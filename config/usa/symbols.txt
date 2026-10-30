@@ -52,6 +52,7 @@
 0x0300205C arm   sub_0300205C
 0x03002C50 data  gUnknown_03002C50
 0x03002E14 data  gUnknown_03002E14
+0x03002E74 data  gUnknown_03002E74
 0x03002EC4 data  gUnknown_03002EC4
 0x03002F24 data  gUnknown_03002F24
 0x03003190 data  gUnknown_03003190
