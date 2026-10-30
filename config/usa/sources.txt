@@ -151,6 +151,7 @@ src/auto/sub_08011CD8.c sub_08011CD8
 src/auto/sub_08011D10.c sub_08011D10
 src/auto/sub_080120DC.c sub_080120DC
 src/auto/sub_08012108.c sub_08012108
+src/auto/sub_08012134.c sub_08012134
 src/auto/sub_080124A0.c sub_080124A0
 src/auto/sub_08012544.c sub_08012544
 src/auto/sub_080125F8.c sub_080125F8
