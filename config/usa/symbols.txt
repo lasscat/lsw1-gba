@@ -85,6 +85,7 @@
 0x03003764 data  gUnknown_03003764
 0x03003770 data  gUnknown_03003770
 0x030048A0 data  gUnknown_030048A0
+0x03004934 data  gUnknown_03004934
 0x03004980 data  gUnknown_03004980
 0x030049F0 data  gUnknown_030049F0
 0x03004E10 data  gUnknown_03004E10
