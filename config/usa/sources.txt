@@ -9,6 +9,7 @@ src/auto/sub_08000A74.c sub_08000A74
 src/auto/sub_08000AA4.c sub_08000AA4
 src/auto/sub_08000AD4.c sub_08000AD4
 src/auto/sub_08000B04.c sub_08000B04
+src/auto/sub_08000B34.c sub_08000B34
 src/auto/sub_08000D58.c sub_08000D58
 src/auto/sub_08000D7C.c sub_08000D7C
 src/auto/sub_08000DD0.c sub_08000DD0
