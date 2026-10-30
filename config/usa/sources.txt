@@ -56,6 +56,7 @@ src/auto/sub_08005290.c sub_08005290
 src/auto/sub_08005350.c sub_08005350
 src/auto/sub_080053D4.c sub_080053D4
 src/auto/sub_08005524.c sub_08005524
+src/auto/sub_0800554C.c sub_0800554C
 src/auto/sub_080055AC.c sub_080055AC
 src/auto/sub_080055E4.c sub_080055E4
 src/auto/sub_08005648.c sub_08005648
