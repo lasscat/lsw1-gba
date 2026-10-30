@@ -31,6 +31,7 @@ src/auto/sub_0800CEEC.c sub_0800CEEC
 src/auto/sub_0800CF20.c sub_0800CF20
 src/auto/sub_0800D140.c sub_0800D140
 src/auto/sub_0800D550.c sub_0800D550
+src/auto/sub_0800D960.c sub_0800D960
 src/auto/sub_0800DAE8.c sub_0800DAE8
 src/auto/sub_0800DF7C.c sub_0800DF7C
 src/auto/sub_0800F8CC.c sub_0800F8CC
