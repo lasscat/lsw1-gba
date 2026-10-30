@@ -46,6 +46,7 @@ src/auto/sub_0800C9CC.c sub_0800C9CC
 src/auto/sub_0800C9EC.c sub_0800C9EC
 src/auto/sub_0800CC64.c sub_0800CC64
 src/auto/sub_0800CC94.c sub_0800CC94
+src/auto/sub_0800CDAC.c sub_0800CDAC
 src/auto/sub_0800CEEC.c sub_0800CEEC
 src/auto/sub_0800CF20.c sub_0800CF20
 src/auto/sub_0800D140.c sub_0800D140
