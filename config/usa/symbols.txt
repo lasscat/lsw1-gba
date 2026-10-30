@@ -86,6 +86,7 @@
 0x0300340C data  gUnknown_0300340C
 0x03003430 data  gUnknown_03003430
 0x030034A8 data  gUnknown_030034A8
+0x030034DC data  gUnknown_030034DC
 0x0300366C data  gUnknown_0300366C
 0x03003678 data  gUnknown_03003678
 0x0300368C data  gUnknown_0300368C
@@ -124,6 +125,7 @@
 0x0300701C data  gUnknown_0300701C
 0x030072EC data  gUnknown_030072EC
 0x03007460 data  gUnknown_03007460
+0x03007FFC data  gUnknown_03007FFC
 0x06010000 data  gUnknown_06010000
 0x080000C0 arm   _start
 0x08000180 thumb sub_08000180
