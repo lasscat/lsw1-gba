@@ -88,6 +88,8 @@
 0x03004934 data  gUnknown_03004934
 0x03004980 data  gUnknown_03004980
 0x030049D4 data  gUnknown_030049D4
+0x030049D8 data  gUnknown_030049D8
+0x030049E0 data  gUnknown_030049E0
 0x030049F0 data  gUnknown_030049F0
 0x03004E10 data  gUnknown_03004E10
 0x03006690 data  gUnknown_03006690
