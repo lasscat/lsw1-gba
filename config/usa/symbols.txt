@@ -87,6 +87,7 @@
 0x03006710 data  gUnknown_03006710
 0x03006740 data  gUnknown_03006740
 0x03006820 data  gUnknown_03006820
+0x030069D8 data  gUnknown_030069D8
 0x03006B1C data  gUnknown_03006B1C
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
