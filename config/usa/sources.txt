@@ -133,6 +133,7 @@ src/auto/sub_0800FF2C.c sub_0800FF2C
 src/auto/sub_08010FC8.c sub_08010FC8
 src/auto/sub_0801123C.c sub_0801123C
 src/auto/sub_08011644.c sub_08011644
+src/auto/sub_0801167C.c sub_0801167C
 src/auto/sub_08011C64.c sub_08011C64
 src/auto/sub_08011CD8.c sub_08011CD8
 src/auto/sub_08011D10.c sub_08011D10
