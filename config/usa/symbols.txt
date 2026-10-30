@@ -103,6 +103,7 @@
 0x03006714 data  gUnknown_03006714
 0x03006740 data  gUnknown_03006740
 0x03006820 data  gUnknown_03006820
+0x030069BC data  gUnknown_030069BC
 0x030069D8 data  gUnknown_030069D8
 0x03006A2C data  gUnknown_03006A2C
 0x03006AEC data  gUnknown_03006AEC
