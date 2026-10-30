@@ -4,6 +4,7 @@
 # tools/match.py verify proves the swap (ROM SHA1); the workspace integrate_one.py adds lines in address order.
 src/auto/sub_08000494.c sub_08000494
 src/auto/sub_08000D58.c sub_08000D58
+src/auto/sub_08000D7C.c sub_08000D7C
 src/auto/sub_08001BF0.c sub_08001BF0
 src/auto/sub_08001E64.c sub_08001E64
 src/auto/sub_08003E04.c sub_08003E04
