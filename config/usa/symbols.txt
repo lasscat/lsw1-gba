@@ -94,7 +94,10 @@
 0x03003678 data  gUnknown_03003678
 0x0300368C data  gUnknown_0300368C
 0x030036A4 data  gUnknown_030036A4
+0x030036E0 data  gUnknown_030036E0
 0x03003764 data  gUnknown_03003764
+0x03003768 data  gUnknown_03003768
+0x0300376C data  gUnknown_0300376C
 0x03003770 data  gUnknown_03003770
 0x030048A0 data  gUnknown_030048A0
 0x03004920 data  gUnknown_03004920
