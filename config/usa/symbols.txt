@@ -54,6 +54,8 @@
 0x0300297C data  gUnknown_0300297C
 0x03002BBC data  gUnknown_03002BBC
 0x03002BC8 data  gUnknown_03002BC8
+0x03002BE0 data  gUnknown_03002BE0
+0x03002BF4 data  gUnknown_03002BF4
 0x03002C40 data  gUnknown_03002C40
 0x03002C50 data  gUnknown_03002C50
 0x03002E14 data  gUnknown_03002E14
@@ -64,6 +66,7 @@
 0x03002F34 data  gUnknown_03002F34
 0x03003190 data  gUnknown_03003190
 0x03003198 data  gUnknown_03003198
+0x030031C4 data  gUnknown_030031C4
 0x030031C8 data  gUnknown_030031C8
 0x03003250 data  gUnknown_03003250
 0x030033EC data  gUnknown_030033EC
