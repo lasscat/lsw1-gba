@@ -11,6 +11,7 @@ src/auto/sub_08001BF0.c sub_08001BF0
 src/auto/sub_08001E64.c sub_08001E64
 src/auto/sub_080020D4.c sub_080020D4
 src/auto/sub_08002174.c sub_08002174
+src/auto/sub_08002198.c sub_08002198
 src/auto/sub_08003E04.c sub_08003E04
 src/auto/sub_080053D4.c sub_080053D4
 src/auto/sub_08005B3C.c sub_08005B3C
