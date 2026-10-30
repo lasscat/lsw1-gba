@@ -54,6 +54,8 @@
 0x03001FCC arm   sub_03001FCC
 0x0300205C arm   sub_0300205C
 0x030024EC data  gUnknown_030024EC
+0x030024F8 data  gUnknown_030024F8
+0x03002730 data  gUnknown_03002730
 0x03002734 data  gUnknown_03002734
 0x0300297C data  gUnknown_0300297C
 0x03002BBC data  gUnknown_03002BBC
