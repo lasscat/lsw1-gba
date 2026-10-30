@@ -59,6 +59,7 @@
 0x03002F34 data  gUnknown_03002F34
 0x03003190 data  gUnknown_03003190
 0x030031C8 data  gUnknown_030031C8
+0x03003250 data  gUnknown_03003250
 0x030033EC data  gUnknown_030033EC
 0x0300340C data  gUnknown_0300340C
 0x0300366C data  gUnknown_0300366C
