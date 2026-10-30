@@ -177,6 +177,7 @@ src/auto/sub_08011C64.c sub_08011C64
 src/auto/sub_08011CD8.c sub_08011CD8
 src/auto/sub_08011D10.c sub_08011D10
 src/auto/sub_0801204C.c sub_0801204C
+src/auto/sub_08012094.c sub_08012094
 src/auto/sub_080120DC.c sub_080120DC
 src/auto/sub_08012108.c sub_08012108
 src/auto/sub_08012134.c sub_08012134
