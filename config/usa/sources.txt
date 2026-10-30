@@ -26,6 +26,7 @@ src/auto/sub_0800A040.c sub_0800A040
 src/auto/sub_0800A074.c sub_0800A074
 src/auto/sub_0800A160.c sub_0800A160
 src/auto/sub_0800A550.c sub_0800A550
+src/auto/sub_0800A9D0.c sub_0800A9D0
 src/auto/sub_0800B230.c sub_0800B230
 src/auto/sub_0800B2E4.c sub_0800B2E4
 src/auto/sub_0800B858.c sub_0800B858
