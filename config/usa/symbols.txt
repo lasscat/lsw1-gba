@@ -101,6 +101,7 @@
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
 0x03006FD4 data  gUnknown_03006FD4
+0x03007014 data  gUnknown_03007014
 0x03007460 data  gUnknown_03007460
 0x06010000 data  gUnknown_06010000
 0x080000C0 arm   _start
