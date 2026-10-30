@@ -125,6 +125,7 @@ src/auto/sub_0803AB14.c sub_0803AB14
 src/auto/sub_0803AB34.c sub_0803AB34
 src/auto/sub_0803DDB0.c sub_0803DDB0
 src/auto/sub_0803F504.c sub_0803F504
+src/auto/sub_0803F578.c sub_0803F578
 src/auto/sub_08040FB0.c sub_08040FB0
 src/auto/sub_080416E0.c sub_080416E0
 src/auto/sub_080418D8.c sub_080418D8
