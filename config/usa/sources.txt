@@ -55,6 +55,7 @@ src/auto/sub_0800DE2C.c sub_0800DE2C
 src/auto/sub_0800DE60.c sub_0800DE60
 src/auto/sub_0800DF7C.c sub_0800DF7C
 src/auto/sub_0800DF9C.c sub_0800DF9C
+src/auto/sub_0800E14C.c sub_0800E14C
 src/auto/sub_0800F8CC.c sub_0800F8CC
 src/auto/sub_0800FF2C.c sub_0800FF2C
 src/auto/sub_080125F8.c sub_080125F8
