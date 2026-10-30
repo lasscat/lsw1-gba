@@ -187,6 +187,7 @@ src/auto/sub_08012ADC.c sub_08012ADC
 src/auto/sub_08012B0C.c sub_08012B0C
 src/auto/sub_08012B38.c sub_08012B38
 src/auto/sub_08012B60.c sub_08012B60
+src/auto/sub_08012B88.c sub_08012B88
 src/auto/sub_08012E18.c sub_08012E18
 src/auto/sub_08012E38.c sub_08012E38
 src/auto/sub_08012EC8.c sub_08012EC8
