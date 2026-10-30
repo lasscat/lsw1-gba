@@ -152,6 +152,7 @@ src/auto/sub_08012EC8.c sub_08012EC8
 src/auto/sub_0801334C.c sub_0801334C
 src/auto/sub_080133A0.c sub_080133A0
 src/auto/sub_08013504.c sub_08013504
+src/auto/sub_080136AC.c sub_080136AC
 src/auto/sub_080139C4.c sub_080139C4
 src/auto/sub_080139FC.c sub_080139FC
 src/auto/sub_08013A28.c sub_08013A28
