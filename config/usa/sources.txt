@@ -58,6 +58,7 @@ src/auto/sub_0800C100.c sub_0800C100
 src/auto/sub_0800C128.c sub_0800C128
 src/auto/sub_0800C364.c sub_0800C364
 src/auto/sub_0800C3C8.c sub_0800C3C8
+src/auto/sub_0800C814.c sub_0800C814
 src/auto/sub_0800C9AC.c sub_0800C9AC
 src/auto/sub_0800C9CC.c sub_0800C9CC
 src/auto/sub_0800C9EC.c sub_0800C9EC
