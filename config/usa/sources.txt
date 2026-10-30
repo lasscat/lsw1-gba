@@ -13,6 +13,7 @@ src/auto/sub_08007B3C.c sub_08007B3C
 src/auto/sub_08008034.c sub_08008034
 src/auto/sub_080087DC.c sub_080087DC
 src/auto/sub_08009F40.c sub_08009F40
+src/auto/sub_0800A040.c sub_0800A040
 src/auto/sub_0800A160.c sub_0800A160
 src/auto/sub_0800C364.c sub_0800C364
 src/auto/sub_0800C9AC.c sub_0800C9AC
