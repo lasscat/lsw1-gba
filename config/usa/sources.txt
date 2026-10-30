@@ -330,6 +330,7 @@ src/auto/sub_08033AF4.c sub_08033AF4
 src/auto/sub_08034354.c sub_08034354
 src/auto/sub_080343F0.c sub_080343F0
 src/auto/sub_08034424.c sub_08034424
+src/auto/sub_08034830.c sub_08034830
 src/auto/sub_08034C7C.c sub_08034C7C
 src/auto/sub_08034C9C.c sub_08034C9C
 src/auto/sub_08034CBC.c sub_08034CBC
