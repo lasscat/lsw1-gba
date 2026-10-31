@@ -595,6 +595,7 @@ src/auto/sub_08022110.c sub_08022110
 src/auto/sub_0802256C.c sub_0802256C
 src/auto/sub_080226AC.c sub_080226AC
 src/auto/sub_08022718.c sub_08022718
+src/auto/sub_08022784.c sub_08022784
 src/auto/sub_080227E8.c sub_080227E8
 src/auto/sub_08022A64.c sub_08022A64
 src/auto/sub_08022BE4.c sub_08022BE4
