@@ -253,6 +253,7 @@ src/auto/sub_0800D65C.c sub_0800D65C
 src/auto/sub_0800D6A0.c sub_0800D6A0
 src/auto/sub_0800D960.c sub_0800D960
 src/auto/sub_0800D994.c sub_0800D994
+src/auto/sub_0800DA00.c sub_0800DA00
 src/auto/sub_0800DAE8.c sub_0800DAE8
 src/auto/sub_0800DB4C.c sub_0800DB4C
 src/auto/sub_0800DB9C.c sub_0800DB9C
