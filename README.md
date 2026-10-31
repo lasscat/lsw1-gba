@@ -10,11 +10,11 @@ The asm build rebuilds the ROM byte for byte; matched functions are C built with
 ## Progress
 
 <!-- progress:start -->
-`██████░░░░░░░░░░░░░░` **27.72%** of the game code matched in C · 939/1965 game functions
+`██████░░░░░░░░░░░░░░` **28.07%** of the game code matched in C · 948/1965 game functions
 
 | Part of the code | Functions in C | Bytes in C | Share |
 |---|---|---|---|
-| Game code | 939/1965 | 0x12c30/0x43abc | 27.72% |
+| Game code | 948/1965 | 0x12fec/0x43abc | 28.07% |
 | Libraries (SDK, libgcc, Krawall) | 0/226 | 0x0/0x6018 | 0.00% |
 
 *Updated 2026-10-31 by `python tools/match.py progress`. A function counts only when it compiles to the exact same bytes and the ROM still rebuilds byte for byte.*
