@@ -146,6 +146,7 @@
 0x030049EC data  gUnknown_030049EC
 0x030049F0 data  gUnknown_030049F0
 0x03004E10 data  gUnknown_03004E10
+0x03004E24 data  gUnknown_03004E24
 0x03004E34 data  gUnknown_03004E34
 0x03004E54 data  gUnknown_03004E54
 0x03004E58 data  gUnknown_03004E58
