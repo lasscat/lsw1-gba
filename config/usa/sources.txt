@@ -125,6 +125,7 @@ src/auto/sub_0800741C.c sub_0800741C
 src/auto/sub_08007468.c sub_08007468
 src/auto/sub_08007528.c sub_08007528
 src/auto/sub_08007668.c sub_08007668
+src/auto/sub_08007698.c sub_08007698
 src/auto/sub_080076C8.c sub_080076C8
 src/auto/sub_080076F4.c sub_080076F4
 src/auto/sub_08007720.c sub_08007720
