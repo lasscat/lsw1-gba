@@ -320,6 +320,7 @@ src/auto/sub_08011738.c sub_08011738
 src/auto/sub_0801177C.c sub_0801177C
 src/auto/sub_080117C0.c sub_080117C0
 src/auto/sub_0801180C.c sub_0801180C
+src/auto/sub_08011AD4.c sub_08011AD4
 src/auto/sub_08011C64.c sub_08011C64
 src/auto/sub_08011CD8.c sub_08011CD8
 src/auto/sub_08011D10.c sub_08011D10
