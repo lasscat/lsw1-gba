@@ -605,6 +605,7 @@ src/auto/sub_08034C7C.c sub_08034C7C
 src/auto/sub_08034C9C.c sub_08034C9C
 src/auto/sub_08034CBC.c sub_08034CBC
 src/auto/sub_08034CE4.c sub_08034CE4
+src/auto/sub_08034DC0.c sub_08034DC0
 src/auto/sub_08034E28.c sub_08034E28
 src/auto/sub_08034EB8.c sub_08034EB8
 src/auto/sub_08035018.c sub_08035018
