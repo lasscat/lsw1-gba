@@ -187,6 +187,7 @@
 0x03006B18 data  gUnknown_03006B18
 0x03006B1C data  gUnknown_03006B1C
 0x03006B34 data  gUnknown_03006B34
+0x03006DB6 data  gUnknown_03006DB6
 0x03006F8C data  gUnknown_03006F8C
 0x03006FA4 data  gUnknown_03006FA4
 0x03006FD4 data  gUnknown_03006FD4
