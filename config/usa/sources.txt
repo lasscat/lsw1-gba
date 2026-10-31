@@ -143,6 +143,7 @@ src/auto/sub_0800870C.c sub_0800870C
 src/auto/sub_0800875C.c sub_0800875C
 src/auto/sub_080087DC.c sub_080087DC
 src/auto/sub_080093B8.c sub_080093B8
+src/auto/sub_08009A58.c sub_08009A58
 src/auto/sub_08009B38.c sub_08009B38
 src/auto/sub_08009C00.c sub_08009C00
 src/auto/sub_08009E5C.c sub_08009E5C
