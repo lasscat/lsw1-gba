@@ -897,6 +897,7 @@ src/auto/sub_08042D08.c sub_08042D08
 src/auto/sub_08042D80.c sub_08042D80
 src/auto/sub_08042E0C.c sub_08042E0C
 src/auto/sub_08042E2C.c sub_08042E2C
+src/auto/sub_08042F00.c sub_08042F00
 src/auto/sub_08042F94.c sub_08042F94
 src/auto/sub_08042FCC.c sub_08042FCC
 src/auto/sub_08042FF4.c sub_08042FF4
