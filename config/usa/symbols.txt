@@ -95,6 +95,7 @@
 0x03003250 data  gUnknown_03003250
 0x0300332C data  gUnknown_0300332C
 0x0300333C data  gUnknown_0300333C
+0x030033E3 data  gUnknown_030033E3
 0x030033EB data  gUnknown_030033EB
 0x030033EC data  gUnknown_030033EC
 0x0300340C data  gUnknown_0300340C

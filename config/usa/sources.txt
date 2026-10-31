@@ -185,6 +185,7 @@ src/auto/sub_0800B88C.c sub_0800B88C
 src/auto/sub_0800BB08.c sub_0800BB08
 src/auto/sub_0800BB50.c sub_0800BB50
 src/auto/sub_0800BC9C.c sub_0800BC9C
+src/auto/sub_0800BD14.c sub_0800BD14
 src/auto/sub_0800BE30.c sub_0800BE30
 src/auto/sub_0800BE68.c sub_0800BE68
 src/auto/sub_0800BEBC.c sub_0800BEBC
