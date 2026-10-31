@@ -170,6 +170,7 @@
 0x03006A00 data  gUnknown_03006A00
 0x03006A1C data  gUnknown_03006A1C
 0x03006A2C data  gUnknown_03006A2C
+0x03006AD4 data  gUnknown_03006AD4
 0x03006AEC data  gUnknown_03006AEC
 0x03006AF0 data  gUnknown_03006AF0
 0x03006AF8 data  gUnknown_03006AF8
