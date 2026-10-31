@@ -350,6 +350,7 @@ src/auto/sub_080152E4.c sub_080152E4
 src/auto/sub_0801530C.c sub_0801530C
 src/auto/sub_08015340.c sub_08015340
 src/auto/sub_0801539C.c sub_0801539C
+src/auto/sub_080153F0.c sub_080153F0
 src/auto/sub_08015488.c sub_08015488
 src/auto/sub_080154D4.c sub_080154D4
 src/auto/sub_080155D8.c sub_080155D8

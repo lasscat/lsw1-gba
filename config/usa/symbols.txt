@@ -122,6 +122,7 @@
 0x0300377C data  gUnknown_0300377C
 0x03003F7C data  gUnknown_03003F7C
 0x0300477C data  gUnknown_0300477C
+0x030047A0 data  gUnknown_030047A0
 0x030048A0 data  gUnknown_030048A0
 0x03004920 data  gUnknown_03004920
 0x03004934 data  gUnknown_03004934
