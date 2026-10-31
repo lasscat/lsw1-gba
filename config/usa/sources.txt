@@ -610,6 +610,7 @@ src/auto/sub_0802D950.c sub_0802D950
 src/auto/sub_0802D978.c sub_0802D978
 src/auto/sub_0802D9E4.c sub_0802D9E4
 src/auto/sub_0802E078.c sub_0802E078
+src/auto/sub_0802E098.c sub_0802E098
 src/auto/sub_0802E308.c sub_0802E308
 src/auto/sub_0802E488.c sub_0802E488
 src/auto/sub_0802E610.c sub_0802E610
