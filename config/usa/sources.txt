@@ -465,6 +465,7 @@ src/auto/sub_0801B044.c sub_0801B044
 src/auto/sub_0801B070.c sub_0801B070
 src/auto/sub_0801B09C.c sub_0801B09C
 src/auto/sub_0801B0C8.c sub_0801B0C8
+src/auto/sub_0801B7CC.c sub_0801B7CC
 src/auto/sub_0801B844.c sub_0801B844
 src/auto/sub_0801B8E8.c sub_0801B8E8
 src/auto/sub_0801BB8C.c sub_0801BB8C
