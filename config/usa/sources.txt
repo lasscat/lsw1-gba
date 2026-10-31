@@ -671,6 +671,7 @@ src/auto/sub_08024D20.c sub_08024D20
 src/auto/sub_08024D6C.c sub_08024D6C
 src/auto/sub_08025280.c sub_08025280
 src/auto/sub_0802532C.c sub_0802532C
+src/auto/sub_0802534C.c sub_0802534C
 src/auto/sub_0802537C.c sub_0802537C
 src/auto/sub_08025600.c sub_08025600
 src/auto/sub_080258A8.c sub_080258A8
