@@ -111,6 +111,7 @@
 0x030034DC data  gUnknown_030034DC
 0x0300366C data  gUnknown_0300366C
 0x03003678 data  gUnknown_03003678
+0x0300367C data  gUnknown_0300367C
 0x03003688 data  gUnknown_03003688
 0x0300368C data  gUnknown_0300368C
 0x03003694 data  gUnknown_03003694
