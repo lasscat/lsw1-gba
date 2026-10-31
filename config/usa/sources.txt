@@ -620,6 +620,7 @@ src/auto/sub_080353BC.c sub_080353BC
 src/auto/sub_080359DC.c sub_080359DC
 src/auto/sub_08035B54.c sub_08035B54
 src/auto/sub_08035BA8.c sub_08035BA8
+src/auto/sub_08035CD0.c sub_08035CD0
 src/auto/sub_08035D3C.c sub_08035D3C
 src/auto/sub_08035D88.c sub_08035D88
 src/auto/sub_08035FF8.c sub_08035FF8
