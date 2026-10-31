@@ -3,6 +3,7 @@
 # The object takes the link position of the first function; those functions' asm files leave the link.
 # tools/match.py verify proves the swap (ROM SHA1); the workspace integrate_one.py adds lines in address order.
 src/auto/sub_08000180.c sub_08000180
+src/auto/sub_080002E4.c sub_080002E4
 src/auto/sub_08000494.c sub_08000494
 src/auto/sub_080006B0.c sub_080006B0
 src/auto/sub_080006E0.c sub_080006E0
