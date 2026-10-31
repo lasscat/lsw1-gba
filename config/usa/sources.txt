@@ -267,6 +267,7 @@ src/auto/sub_0800E19C.c sub_0800E19C
 src/auto/sub_0800E1C4.c sub_0800E1C4
 src/auto/sub_0800E1FC.c sub_0800E1FC
 src/auto/sub_0800E26C.c sub_0800E26C
+src/auto/sub_0800E2DC.c sub_0800E2DC
 src/auto/sub_0800E410.c sub_0800E410
 src/auto/sub_0800E508.c sub_0800E508
 src/auto/sub_0800E534.c sub_0800E534
