@@ -607,6 +607,7 @@ src/auto/sub_08034CBC.c sub_08034CBC
 src/auto/sub_08034CE4.c sub_08034CE4
 src/auto/sub_08034DC0.c sub_08034DC0
 src/auto/sub_08034E28.c sub_08034E28
+src/auto/sub_08034E48.c sub_08034E48
 src/auto/sub_08034EB8.c sub_08034EB8
 src/auto/sub_08035018.c sub_08035018
 src/auto/sub_08035038.c sub_08035038
