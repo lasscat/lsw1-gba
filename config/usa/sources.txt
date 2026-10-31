@@ -754,6 +754,7 @@ src/auto/sub_0803788C.c sub_0803788C
 src/auto/sub_080379F4.c sub_080379F4
 src/auto/sub_08037A70.c sub_08037A70
 src/auto/sub_08037FF8.c sub_08037FF8
+src/auto/sub_08038024.c sub_08038024
 src/auto/sub_08038554.c sub_08038554
 src/auto/sub_08038574.c sub_08038574
 src/auto/sub_08038738.c sub_08038738
