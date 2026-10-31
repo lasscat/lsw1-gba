@@ -334,6 +334,7 @@ src/auto/sub_080154D4.c sub_080154D4
 src/auto/sub_080155D8.c sub_080155D8
 src/auto/sub_08015670.c sub_08015670
 src/auto/sub_080156D8.c sub_080156D8
+src/auto/sub_08015740.c sub_08015740
 src/auto/sub_08015810.c sub_08015810
 src/auto/sub_08015874.c sub_08015874
 src/auto/sub_08015930.c sub_08015930
