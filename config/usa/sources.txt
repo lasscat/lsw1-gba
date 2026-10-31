@@ -397,6 +397,7 @@ src/auto/sub_0801811C.c sub_0801811C
 src/auto/sub_08018220.c sub_08018220
 src/auto/sub_0801826C.c sub_0801826C
 src/auto/sub_0801829C.c sub_0801829C
+src/auto/sub_080182D8.c sub_080182D8
 src/auto/sub_08018330.c sub_08018330
 src/auto/sub_08018378.c sub_08018378
 src/auto/sub_08018428.c sub_08018428
