@@ -190,6 +190,7 @@
 0x030069F0 data  gUnknown_030069F0
 0x030069F4 data  gUnknown_030069F4
 0x030069F8 data  gUnknown_030069F8
+0x030069FC data  gUnknown_030069FC
 0x03006A00 data  gUnknown_03006A00
 0x03006A1C data  gUnknown_03006A1C
 0x03006A2C data  gUnknown_03006A2C
