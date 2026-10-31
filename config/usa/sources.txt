@@ -637,6 +637,7 @@ src/auto/sub_08027A6C.c sub_08027A6C
 src/auto/sub_08027ECC.c sub_08027ECC
 src/auto/sub_08029128.c sub_08029128
 src/auto/sub_08029308.c sub_08029308
+src/auto/sub_0802949C.c sub_0802949C
 src/auto/sub_08029ACC.c sub_08029ACC
 src/auto/sub_08029C64.c sub_08029C64
 src/auto/sub_08029D14.c sub_08029D14
