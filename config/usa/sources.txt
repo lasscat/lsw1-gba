@@ -365,6 +365,7 @@ src/auto/sub_08015874.c sub_08015874
 src/auto/sub_08015930.c sub_08015930
 src/auto/sub_0801597C.c sub_0801597C
 src/auto/sub_080159C8.c sub_080159C8
+src/auto/sub_08015A14.c sub_08015A14
 src/auto/sub_08015A70.c sub_08015A70
 src/auto/sub_08015D8C.c sub_08015D8C
 src/auto/sub_08015DAC.c sub_08015DAC
