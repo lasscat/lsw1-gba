@@ -420,6 +420,7 @@ src/auto/sub_080153F0.c sub_080153F0
 src/auto/sub_08015488.c sub_08015488
 src/auto/sub_080154D4.c sub_080154D4
 src/auto/sub_080155D8.c sub_080155D8
+src/auto/sub_08015640.c sub_08015640
 src/auto/sub_08015670.c sub_08015670
 src/auto/sub_080156D8.c sub_080156D8
 src/auto/sub_08015740.c sub_08015740
