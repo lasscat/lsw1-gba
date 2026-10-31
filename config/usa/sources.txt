@@ -461,6 +461,7 @@ src/auto/sub_08018DD0.c sub_08018DD0
 src/auto/sub_08018E68.c sub_08018E68
 src/auto/sub_08018F04.c sub_08018F04
 src/auto/sub_08018FA4.c sub_08018FA4
+src/auto/sub_08019044.c sub_08019044
 src/auto/sub_0801963C.c sub_0801963C
 src/auto/sub_08019CE4.c sub_08019CE4
 src/auto/sub_0801A05C.c sub_0801A05C
