@@ -581,6 +581,7 @@ src/auto/sub_080317B4.c sub_080317B4
 src/auto/sub_08031B18.c sub_08031B18
 src/auto/sub_08031EB8.c sub_08031EB8
 src/auto/sub_080323BC.c sub_080323BC
+src/auto/sub_080324D0.c sub_080324D0
 src/auto/sub_08032B38.c sub_08032B38
 src/auto/sub_08033354.c sub_08033354
 src/auto/sub_08033414.c sub_08033414
