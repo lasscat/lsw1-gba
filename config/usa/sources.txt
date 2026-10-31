@@ -930,6 +930,7 @@ src/auto/sub_0803CB0C.c sub_0803CB0C
 src/auto/sub_0803D33C.c sub_0803D33C
 src/auto/sub_0803D38C.c sub_0803D38C
 src/auto/sub_0803D5B8.c sub_0803D5B8
+src/auto/sub_0803D784.c sub_0803D784
 src/auto/sub_0803D9C0.c sub_0803D9C0
 src/auto/sub_0803DB5C.c sub_0803DB5C
 src/auto/sub_0803DDB0.c sub_0803DDB0
