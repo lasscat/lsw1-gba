@@ -890,6 +890,7 @@ src/auto/sub_0803FC18.c sub_0803FC18
 src/auto/sub_0803FED8.c sub_0803FED8
 src/auto/sub_0804039C.c sub_0804039C
 src/auto/sub_08040640.c sub_08040640
+src/auto/sub_080407BC.c sub_080407BC
 src/auto/sub_08040868.c sub_08040868
 src/auto/sub_080408C0.c sub_080408C0
 src/auto/sub_08040C00.c sub_08040C00
