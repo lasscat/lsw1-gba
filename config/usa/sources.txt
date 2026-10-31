@@ -481,6 +481,7 @@ src/auto/sub_08021944.c sub_08021944
 src/auto/sub_08021A64.c sub_08021A64
 src/auto/sub_08021B00.c sub_08021B00
 src/auto/sub_08021B54.c sub_08021B54
+src/auto/sub_080226AC.c sub_080226AC
 src/auto/sub_080227E8.c sub_080227E8
 src/auto/sub_08022A64.c sub_08022A64
 src/auto/sub_08022D18.c sub_08022D18
