@@ -697,6 +697,7 @@ src/auto/sub_0802F08C.c sub_0802F08C
 src/auto/sub_0802F1C4.c sub_0802F1C4
 src/auto/sub_0802F2D8.c sub_0802F2D8
 src/auto/sub_0802F31C.c sub_0802F31C
+src/auto/sub_0802F360.c sub_0802F360
 src/auto/sub_0802F78C.c sub_0802F78C
 src/auto/sub_0802F7AC.c sub_0802F7AC
 src/auto/sub_0802F8CC.c sub_0802F8CC
