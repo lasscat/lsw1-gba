@@ -154,6 +154,7 @@
 0x03004E64 data  gUnknown_03004E64
 0x03004E68 data  gUnknown_03004E68
 0x03004E6C data  gUnknown_03004E6C
+0x03004E70 data  gUnknown_03004E70
 0x03004E74 data  gUnknown_03004E74
 0x03006690 data  gUnknown_03006690
 0x03006698 data  gUnknown_03006698
