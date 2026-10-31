@@ -635,6 +635,7 @@ src/auto/sub_0802D28C.c sub_0802D28C
 src/auto/sub_0802D31C.c sub_0802D31C
 src/auto/sub_0802D368.c sub_0802D368
 src/auto/sub_0802D3AC.c sub_0802D3AC
+src/auto/sub_0802D408.c sub_0802D408
 src/auto/sub_0802D488.c sub_0802D488
 src/auto/sub_0802D4B4.c sub_0802D4B4
 src/auto/sub_0802D5D4.c sub_0802D5D4
