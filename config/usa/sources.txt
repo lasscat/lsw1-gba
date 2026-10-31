@@ -95,6 +95,7 @@ src/auto/sub_08006CF4.c sub_08006CF4
 src/auto/sub_08006DA4.c sub_08006DA4
 src/auto/sub_08006DEC.c sub_08006DEC
 src/auto/sub_08007254.c sub_08007254
+src/auto/sub_080072A4.c sub_080072A4
 src/auto/sub_08007318.c sub_08007318
 src/auto/sub_080073DC.c sub_080073DC
 src/auto/sub_0800741C.c sub_0800741C
