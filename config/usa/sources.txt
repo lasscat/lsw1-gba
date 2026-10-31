@@ -205,6 +205,7 @@ src/auto/sub_0800CF20.c sub_0800CF20
 src/auto/sub_0800CF40.c sub_0800CF40
 src/auto/sub_0800CFC0.c sub_0800CFC0
 src/auto/sub_0800D008.c sub_0800D008
+src/auto/sub_0800D044.c sub_0800D044
 src/auto/sub_0800D0A8.c sub_0800D0A8
 src/auto/sub_0800D140.c sub_0800D140
 src/auto/sub_0800D160.c sub_0800D160
