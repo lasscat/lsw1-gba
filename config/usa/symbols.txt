@@ -220,6 +220,7 @@
 0x03007FFC data  gUnknown_03007FFC
 0x04000048 data  gUnknown_04000048
 0x0400004A data  gUnknown_0400004A
+0x05000008 data  gUnknown_05000008
 0x05000009 data  gUnknown_05000009
 0x0500000C data  gUnknown_0500000C
 0x06010000 data  gUnknown_06010000
