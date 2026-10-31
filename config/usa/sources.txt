@@ -330,6 +330,7 @@ src/auto/sub_08013A94.c sub_08013A94
 src/auto/sub_08013ADC.c sub_08013ADC
 src/auto/sub_08013B28.c sub_08013B28
 src/auto/sub_08013BDC.c sub_08013BDC
+src/auto/sub_08013BFC.c sub_08013BFC
 src/auto/sub_08013D0C.c sub_08013D0C
 src/auto/sub_08013D60.c sub_08013D60
 src/auto/sub_08013D88.c sub_08013D88
