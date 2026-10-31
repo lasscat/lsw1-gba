@@ -715,6 +715,7 @@ src/auto/sub_0803223C.c sub_0803223C
 src/auto/sub_080323BC.c sub_080323BC
 src/auto/sub_0803242C.c sub_0803242C
 src/auto/sub_080324D0.c sub_080324D0
+src/auto/sub_080328D0.c sub_080328D0
 src/auto/sub_08032B38.c sub_08032B38
 src/auto/sub_08033210.c sub_08033210
 src/auto/sub_08033354.c sub_08033354
