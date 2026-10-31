@@ -697,6 +697,7 @@ src/auto/sub_08040C00.c sub_08040C00
 src/auto/sub_08040C90.c sub_08040C90
 src/auto/sub_08040D24.c sub_08040D24
 src/auto/sub_08040FB0.c sub_08040FB0
+src/auto/sub_0804127C.c sub_0804127C
 src/auto/sub_08041550.c sub_08041550
 src/auto/sub_080416E0.c sub_080416E0
 src/auto/sub_08041764.c sub_08041764
