@@ -391,6 +391,7 @@ src/auto/sub_08015A70.c sub_08015A70
 src/auto/sub_08015D8C.c sub_08015D8C
 src/auto/sub_08015DAC.c sub_08015DAC
 src/auto/sub_08015E0C.c sub_08015E0C
+src/auto/sub_08015ED4.c sub_08015ED4
 src/auto/sub_080160BC.c sub_080160BC
 src/auto/sub_08016108.c sub_08016108
 src/auto/sub_08016144.c sub_08016144
