@@ -434,6 +434,7 @@ src/auto/sub_0801D514.c sub_0801D514
 src/auto/sub_0801D8D4.c sub_0801D8D4
 src/auto/sub_0801E01C.c sub_0801E01C
 src/auto/sub_0801E224.c sub_0801E224
+src/auto/sub_0801E26C.c sub_0801E26C
 src/auto/sub_0801E32C.c sub_0801E32C
 src/auto/sub_0801E34C.c sub_0801E34C
 src/auto/sub_0801E398.c sub_0801E398
