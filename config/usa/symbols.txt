@@ -188,6 +188,8 @@
 0x0300701C data  gUnknown_0300701C
 0x030072EC data  gUnknown_030072EC
 0x030072F0 data  gUnknown_030072F0
+0x0300731C data  gUnknown_0300731C
+0x0300739C data  gUnknown_0300739C
 0x03007460 data  gUnknown_03007460
 0x03007FFC data  gUnknown_03007FFC
 0x04000048 data  gUnknown_04000048
