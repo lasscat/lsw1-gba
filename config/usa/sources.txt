@@ -465,6 +465,7 @@ src/auto/sub_0801D47C.c sub_0801D47C
 src/auto/sub_0801D4DC.c sub_0801D4DC
 src/auto/sub_0801D514.c sub_0801D514
 src/auto/sub_0801D8D4.c sub_0801D8D4
+src/auto/sub_0801DF2C.c sub_0801DF2C
 src/auto/sub_0801DFB4.c sub_0801DFB4
 src/auto/sub_0801E01C.c sub_0801E01C
 src/auto/sub_0801E224.c sub_0801E224
