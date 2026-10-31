@@ -596,6 +596,7 @@ src/auto/sub_08034380.c sub_08034380
 src/auto/sub_080343F0.c sub_080343F0
 src/auto/sub_08034424.c sub_08034424
 src/auto/sub_08034668.c sub_08034668
+src/auto/sub_080347C8.c sub_080347C8
 src/auto/sub_08034830.c sub_08034830
 src/auto/sub_080349E4.c sub_080349E4
 src/auto/sub_08034A34.c sub_08034A34
