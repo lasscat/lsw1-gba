@@ -469,6 +469,7 @@ src/auto/sub_08020B40.c sub_08020B40
 src/auto/sub_08020D94.c sub_08020D94
 src/auto/sub_08020DE0.c sub_08020DE0
 src/auto/sub_08020FF0.c sub_08020FF0
+src/auto/sub_08021078.c sub_08021078
 src/auto/sub_08021574.c sub_08021574
 src/auto/sub_080215D4.c sub_080215D4
 src/auto/sub_080215FC.c sub_080215FC
