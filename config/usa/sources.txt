@@ -414,6 +414,7 @@ src/auto/sub_0801713C.c sub_0801713C
 src/auto/sub_080171F4.c sub_080171F4
 src/auto/sub_08017220.c sub_08017220
 src/auto/sub_08017264.c sub_08017264
+src/auto/sub_0801731C.c sub_0801731C
 src/auto/sub_080173B4.c sub_080173B4
 src/auto/sub_08017400.c sub_08017400
 src/auto/sub_080174FC.c sub_080174FC
