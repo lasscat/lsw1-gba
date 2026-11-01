@@ -711,6 +711,7 @@ src/auto/sub_080278C8.c sub_080278C8
 src/auto/sub_08027918.c sub_08027918
 src/auto/sub_080279C8.c sub_080279C8
 src/auto/sub_08027A6C.c sub_08027A6C
+src/auto/sub_08027B1C.c sub_08027B1C
 src/auto/sub_08027ECC.c sub_08027ECC
 src/auto/sub_08028238.c sub_08028238
 src/auto/sub_0802867C.c sub_0802867C
