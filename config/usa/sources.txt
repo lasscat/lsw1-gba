@@ -310,6 +310,7 @@ src/auto/sub_0800F318.c sub_0800F318
 src/auto/sub_0800F380.c sub_0800F380
 src/auto/sub_0800F3D0.c sub_0800F3D0
 src/auto/sub_0800F3F8.c sub_0800F3F8
+src/auto/sub_0800F420.c sub_0800F420
 src/auto/sub_0800F548.c sub_0800F548
 src/auto/sub_0800F5B0.c sub_0800F5B0
 src/auto/sub_0800F81C.c sub_0800F81C
