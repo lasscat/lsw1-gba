@@ -214,6 +214,7 @@
 0x03006B34 data  gUnknown_03006B34
 0x03006DB6 data  gUnknown_03006DB6
 0x03006F8C data  gUnknown_03006F8C
+0x03006F94 data  gUnknown_03006F94
 0x03006FA4 data  gUnknown_03006FA4
 0x03006FB0 data  gUnknown_03006FB0
 0x03006FD4 data  gUnknown_03006FD4
