@@ -519,6 +519,7 @@ src/auto/sub_08019420.c sub_08019420
 src/auto/sub_080194CC.c sub_080194CC
 src/auto/sub_0801963C.c sub_0801963C
 src/auto/sub_08019CE4.c sub_08019CE4
+src/auto/sub_08019D30.c sub_08019D30
 src/auto/sub_08019FD0.c sub_08019FD0
 src/auto/sub_0801A05C.c sub_0801A05C
 src/auto/sub_0801A5A4.c sub_0801A5A4
