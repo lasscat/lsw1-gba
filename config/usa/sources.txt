@@ -453,6 +453,7 @@ src/auto/sub_08016AD8.c sub_08016AD8
 src/auto/sub_08016B50.c sub_08016B50
 src/auto/sub_08016DDC.c sub_08016DDC
 src/auto/sub_08016E00.c sub_08016E00
+src/auto/sub_08016FD8.c sub_08016FD8
 src/auto/sub_0801713C.c sub_0801713C
 src/auto/sub_08017164.c sub_08017164
 src/auto/sub_080171F4.c sub_080171F4
