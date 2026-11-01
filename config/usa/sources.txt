@@ -855,6 +855,7 @@ src/auto/sub_08033B20.c sub_08033B20
 src/auto/sub_08033B70.c sub_08033B70
 src/auto/sub_08033BCC.c sub_08033BCC
 src/auto/sub_08033CD4.c sub_08033CD4
+src/auto/sub_08033D80.c sub_08033D80
 src/auto/sub_08034354.c sub_08034354
 src/auto/sub_08034380.c sub_08034380
 src/auto/sub_080343F0.c sub_080343F0
