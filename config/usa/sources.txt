@@ -463,6 +463,7 @@ src/auto/sub_08017400.c sub_08017400
 src/auto/sub_080174FC.c sub_080174FC
 src/auto/sub_08017544.c sub_08017544
 src/auto/sub_0801758C.c sub_0801758C
+src/auto/sub_080175D0.c sub_080175D0
 src/auto/sub_08017614.c sub_08017614
 src/auto/sub_08017918.c sub_08017918
 src/auto/sub_08017948.c sub_08017948
