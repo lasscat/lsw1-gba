@@ -2372,3 +2372,4 @@
 0x08047D7C thumb sub_0300065C_veneer
 0x08047D8C thumb sub_03000E58_veneer
 0x0805714C data  gUnknown_0805714C
+0xFFFBFFFF data  gUnknown_FFFBFFFF
