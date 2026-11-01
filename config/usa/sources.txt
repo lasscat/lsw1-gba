@@ -1019,6 +1019,7 @@ src/auto/sub_0803FD80.c sub_0803FD80
 src/auto/sub_0803FED8.c sub_0803FED8
 src/auto/sub_08040004.c sub_08040004
 src/auto/sub_0804039C.c sub_0804039C
+src/auto/sub_0804048C.c sub_0804048C
 src/auto/sub_08040640.c sub_08040640
 src/auto/sub_080407BC.c sub_080407BC
 src/auto/sub_08040868.c sub_08040868
