@@ -970,6 +970,7 @@ src/auto/sub_0803B39C.c sub_0803B39C
 src/auto/sub_0803B524.c sub_0803B524
 src/auto/sub_0803B9BC.c sub_0803B9BC
 src/auto/sub_0803BC98.c sub_0803BC98
+src/auto/sub_0803BDB4.c sub_0803BDB4
 src/auto/sub_0803C130.c sub_0803C130
 src/auto/sub_0803C160.c sub_0803C160
 src/auto/sub_0803C22C.c sub_0803C22C
