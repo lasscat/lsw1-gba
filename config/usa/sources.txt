@@ -741,6 +741,7 @@ src/auto/sub_0802BA5C.c sub_0802BA5C
 src/auto/sub_0802BF5C.c sub_0802BF5C
 src/auto/sub_0802C140.c sub_0802C140
 src/auto/sub_0802C164.c sub_0802C164
+src/auto/sub_0802C198.c sub_0802C198
 src/auto/sub_0802C428.c sub_0802C428
 src/auto/sub_0802C450.c sub_0802C450
 src/auto/sub_0802C494.c sub_0802C494
