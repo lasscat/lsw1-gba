@@ -770,6 +770,7 @@ src/auto/sub_0802D914.c sub_0802D914
 src/auto/sub_0802D950.c sub_0802D950
 src/auto/sub_0802D978.c sub_0802D978
 src/auto/sub_0802D9E4.c sub_0802D9E4
+src/auto/sub_0802DA20.c sub_0802DA20
 src/auto/sub_0802E078.c sub_0802E078
 src/auto/sub_0802E098.c sub_0802E098
 src/auto/sub_0802E308.c sub_0802E308
