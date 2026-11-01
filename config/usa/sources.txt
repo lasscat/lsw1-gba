@@ -680,6 +680,7 @@ src/auto/sub_08023A1C.c sub_08023A1C
 src/auto/sub_08023B64.c sub_08023B64
 src/auto/sub_08023B9C.c sub_08023B9C
 src/auto/sub_08023C84.c sub_08023C84
+src/auto/sub_08023DFC.c sub_08023DFC
 src/auto/sub_08023F70.c sub_08023F70
 src/auto/sub_0802481C.c sub_0802481C
 src/auto/sub_08024BFC.c sub_08024BFC
